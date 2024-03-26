@@ -38,7 +38,7 @@ git clone https://github.com/NickName/RepoName
 ```
 
 
-4) Клонируйте данный репозиторий в корневой раздел компьютера
+4) Клонируйте сам репозиторий с скриптом в корневой раздел компьютера
 ```bash
 cd
 git clone https://github.com/p0n41k/FastReg
@@ -53,6 +53,11 @@ mv /FastReg/* ВашаРепа/.
 
 
 6) Произведите настройку в конфигурационном файле ```config.json```
+
+
+7) Введите ```sh
+./reg --push-block д
+```
 
 ```sh
 $ npm i your-awesome-plugin-name
